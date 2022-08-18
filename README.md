@@ -1,5 +1,5 @@
 # Dajngo-CRUD-API
-#Simple Django-python CRUD API 
+#Simple Django-python CRUD class based API 
 Technology required 
 -python
 -vscode Latest
