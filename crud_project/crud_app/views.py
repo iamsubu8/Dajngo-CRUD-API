@@ -1,12 +1,13 @@
 from ast import Delete
 from .models import *     #improrting all tables from models.py to use in view.py
-from rest_framework import status #to show the status in response
 from rest_framework.views import APIView  #type of  function argument predefined
 from rest_framework.response import Response #to get response
-from datetime import date
 import datetime as dt
+
 # Create your views here.
 #here we are going to use class based function
+
+# I am not added any conditions over here handle error. You can add condtion as per your requirements.
 
 
 class AddProductView(APIView):
