@@ -1,4 +1,3 @@
-from ast import Delete
 from .models import *     #improrting all tables from models.py to use in view.py
 from rest_framework.views import APIView  #type of  function argument predefined
 from rest_framework.response import Response #to get response
