@@ -7,7 +7,7 @@ import datetime as dt
 # Create your views here.
 #here we are going to use class based function
 
-# I am not added any conditions over here handle error. You can add condtion as per your requirements.
+# I am not added any conditions over here to handle error. You can add condtion as per your requirements.
 
 
 class AddProductView(APIView):
